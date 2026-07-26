@@ -1,8 +1,6 @@
-# Amazon-Product-Price-Analysis
-A dashboard for Amazon product price analysis, category insights, discount trends and ML-based price prediction. 
 # 🛒 Amazon Product Price Analysis
 
-A **Data Mining** project developed using **Python**** to analyze Amazon product data. The application processes product information and generates interactive visualizations that help users understand pricing trends, discounts, customer ratings, and category-wise product analysis.
+A **Data Mining** project developed using Python to analyze Amazon product data. The application processes product information and generates interactive visualizations that help users understand pricing trends, discounts, customer ratings, and category-wise product analysis.
 
 ---
 
