@@ -6,7 +6,7 @@ A **Data Mining** project developed using Python to analyze Amazon product data.
 
 ## 🔗 Runnable Link
 
-https://amazon-appuct-price-analysis-khsy88kepjcrgppbzbzi5m.streamlit.app/
+https://amazon-appuct-price-analysis-kgu7mhlfdofqeswnac6sfm.streamlit.app/
 
 ---
 
